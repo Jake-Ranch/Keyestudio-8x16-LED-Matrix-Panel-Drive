@@ -1,5 +1,5 @@
 # Keyestudio-8x16-LED-Matrix-Panel-Drive
-Keyestudio 8x16 LED Matrix Panel Drive Micropython 
+Keyestudio 8x16 LED Matrix Panel Drive Micropython (AIP1640)
 
 ![示例图片](K1.png)
 
